@@ -46,7 +46,7 @@ class OhmsLawCalculator {
         return voltage
     }
 /*
-
+    Adding a comment.
  */
     static double calculateCurrent(double voltage, double resistance) {
         double current = 0
