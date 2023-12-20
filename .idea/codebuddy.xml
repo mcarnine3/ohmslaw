@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CodebuddyPersistentProjectState">
+    <option name="promptHistory">
+      <list>
+        <option value="create a groovy method to calculate  ohms law" />
+        <option value="Snippet from file: src/main/groovy/com/carnine/main/groovy/Main.groovy&#10;&#10;```&#10;    /*&#10;    * V = IR&#10;    * */&#10;    println(&quot;Volts = &quot; + getVolts(3.2, 50))&#10;&#10;static double getVolts(double i, double r) {&#10;        double v = i*r&#10;        return v&#10;}&#10;```&#10;&#10;Please explain the above snippet" />
+        <option value="create a groovy method to calculate  ohms law" />
+        <option value="Create a groovy method using a try catch block" />
+        <option value="create a groovy method using a try catch block that calculates voltage" />
+        <option value="create groovydoc for class" />
+        <option value="write a groovy method to calculate power using ohm's law" />
+      </list>
+    </option>
+  </component>
+</project>
